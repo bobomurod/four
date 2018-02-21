@@ -1,0 +1,22 @@
+{
+  "name": "four",
+  "version": "0.0.1",
+  "description": "testing interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobomurod/four.git"
+  },
+  "author": "bobomurod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bobomurod/four/issues"
+  },
+  "homepage": "https://github.com/bobomurod/four#readme",
+  "dependencies": {
+    "truffle": "^4.0.6"
+  }
+}
